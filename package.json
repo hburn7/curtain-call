@@ -1,14 +1,18 @@
 {
   "name": "curtain-call",
   "displayName": "Curtain Call",
-  "description": "An elegant dark theme that's easy on the eyes",
-  "version": "0.0.1",
+  "description": "An elegant dark theme that's easy on the eyes.",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.103.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hburn7/curtain-call"
+  },
   "contributes": {
     "themes": [
       {
