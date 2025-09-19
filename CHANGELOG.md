@@ -4,9 +4,10 @@ All notable changes to the "curtain-call" extension will be documented in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.0.1]
 
-- Initial release
+- Fixed git diff contrast with comments
+- Fixed invalid configuration fields
 
 ## [1.0]
 
