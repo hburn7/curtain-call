@@ -141,7 +141,17 @@
     "gitDecoration.deletedResourceForeground": "#e1b633",
     "gitDecoration.untrackedResourceForeground": "#49d053",
     "gitDecoration.ignoredResourceForeground": "#4a4a4a",
-    "gitDecoration.conflictingResourceForeground": "#7976db"
+    "gitDecoration.conflictingResourceForeground": "#7976db",
+
+    // Diff editor
+    "diffEditor.insertedLineBackground": "#2c3a1fb3",
+    "diffEditor.removedLineBackground": "#3f2420b3",
+    "diffEditor.insertedTextBackground": "#8fa36033",
+    "diffEditor.removedTextBackground": "#d08a4033",
+    "diffEditor.insertedLineBorder": "#9fb15f99",
+    "diffEditor.removedLineBorder": "#d58a3d99",
+    "editorGutter.addedBackground": "#8fa360",
+    "editorGutter.deletedBackground": "#d08a40"
   },
   "tokenColors": [
     {
