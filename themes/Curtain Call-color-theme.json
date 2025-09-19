@@ -2,7 +2,6 @@
   "name": "Curtain Call",
   "type": "dark",
   "colors": {
-    // Editor colors
     "editor.background": "#181a1f",
     "editor.foreground": "#939393",
     "editorCursor.foreground": "#efdecb",
@@ -10,25 +9,21 @@
     "editorLineNumber.foreground": "#4a4a4a",
     "editorLineNumber.activeForeground": "#afb171",
 
-    // Selection colors
     "editor.selectionBackground": "#afb17140",
     "editor.selectionHighlightBackground": "#afb17120",
     "editor.inactiveSelectionBackground": "#afb17120",
     "editor.wordHighlightBackground": "#afb17120",
     "editor.wordHighlightStrongBackground": "#afb17130",
 
-    // Find/Search colors
     "editor.findMatchBackground": "#deac4040",
     "editor.findMatchHighlightBackground": "#deac4020",
 
-    // Editor widget colors
     "editorWidget.background": "#1e2127",
     "editorWidget.border": "#2a2d35",
     "editorSuggestWidget.background": "#1e2127",
     "editorSuggestWidget.border": "#2a2d35",
     "editorSuggestWidget.selectedBackground": "#afb17120",
 
-    // Sidebar
     "sideBar.background": "#151719",
     "sideBar.foreground": "#939393",
     "sideBar.border": "#0e0f11",
@@ -36,7 +31,6 @@
     "sideBarSectionHeader.background": "#1a1c21",
     "sideBarSectionHeader.foreground": "#afb171",
 
-    // Activity Bar
     "activityBar.background": "#181a1f",
     "activityBar.foreground": "#afb171",
     "activityBar.inactiveForeground": "#5a5a5a",
@@ -44,21 +38,18 @@
     "activityBarBadge.background": "#afb171",
     "activityBarBadge.foreground": "#181a1f",
 
-    // Status Bar
     "statusBar.background": "#151719",
     "statusBar.foreground": "#939393",
     "statusBar.border": "#0e0f11",
     "statusBar.noFolderBackground": "#151719",
     "statusBarItem.hoverBackground": "#1e2127",
 
-    // Title Bar
     "titleBar.activeBackground": "#151719",
     "titleBar.activeForeground": "#939393",
     "titleBar.inactiveBackground": "#151719",
     "titleBar.inactiveForeground": "#6a6a6a",
     "titleBar.border": "#0e0f11",
 
-    // Lists and trees
     "list.activeSelectionBackground": "#afb17120",
     "list.activeSelectionForeground": "#efdecb",
     "list.inactiveSelectionBackground": "#afb17115",
@@ -66,24 +57,20 @@
     "list.focusBackground": "#afb17120",
     "tree.indentGuidesStroke": "#2a2d35",
 
-    // Input controls
     "input.background": "#1e2127",
     "input.foreground": "#939393",
     "input.border": "#2a2d35",
     "input.placeholderForeground": "#5a5a5a",
     "inputOption.activeBorder": "#afb171",
 
-    // Buttons
     "button.background": "#afb171",
     "button.foreground": "#181a1f",
     "button.hoverBackground": "#9ea162",
 
-    // Dropdown
     "dropdown.background": "#1e2127",
     "dropdown.foreground": "#939393",
     "dropdown.border": "#2a2d35",
 
-    // Terminal colors
     "terminal.background": "#181a1f",
     "terminal.foreground": "#939393",
     "terminal.ansiBlack": "#8a94a8",
@@ -103,7 +90,6 @@
     "terminal.ansiBrightCyan": "#49d053",
     "terminal.ansiBrightWhite": "#efdecb",
 
-    // Tabs
     "tab.activeBackground": "#181a1f",
     "tab.activeForeground": "#efdecb",
     "tab.inactiveBackground": "#151719",
@@ -112,44 +98,38 @@
     "tab.activeBorderTop": "#afb171",
     "editorGroupHeader.tabsBackground": "#151719",
 
-    // Breadcrumb
     "breadcrumb.foreground": "#939393",
     "breadcrumb.focusForeground": "#efdecb",
     "breadcrumb.activeSelectionForeground": "#afb171",
 
-    // Scrollbar
     "scrollbar.shadow": "#00000050",
     "scrollbarSlider.background": "#3a3a3a30",
     "scrollbarSlider.hoverBackground": "#4a4a4a40",
     "scrollbarSlider.activeBackground": "#5a5a5a50",
 
-    // Panel (Output, Terminal, etc.)
     "panel.background": "#151719",
     "panel.border": "#0e0f11",
     "panelTitle.activeForeground": "#efdecb",
     "panelTitle.inactiveForeground": "#6a6a6a",
     "panelTitle.activeBorder": "#afb171",
 
-    // Peek view
     "peekView.border": "#afb171",
     "peekViewEditor.background": "#1e2127",
     "peekViewResult.background": "#151719",
     "peekViewTitle.background": "#1a1c21",
 
-    // Git colors
     "gitDecoration.modifiedResourceForeground": "#deac40",
     "gitDecoration.deletedResourceForeground": "#e1b633",
     "gitDecoration.untrackedResourceForeground": "#49d053",
     "gitDecoration.ignoredResourceForeground": "#4a4a4a",
     "gitDecoration.conflictingResourceForeground": "#7976db",
 
-    // Diff editor
     "diffEditor.insertedLineBackground": "#2c3a1fb3",
     "diffEditor.removedLineBackground": "#3f2420b3",
     "diffEditor.insertedTextBackground": "#8fa36033",
     "diffEditor.removedTextBackground": "#d08a4033",
-    "diffEditor.insertedLineBorder": "#9fb15f99",
-    "diffEditor.removedLineBorder": "#d58a3d99",
+    "diffEditorGutter.insertedLineBackground": "#3a4a27",
+    "diffEditorGutter.removedLineBackground": "#4f2d26",
     "editorGutter.addedBackground": "#8fa360",
     "editorGutter.deletedBackground": "#d08a40"
   },
